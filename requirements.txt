@@ -1,0 +1,13 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-dotenv>=0.19.0
+together>=1.0.0
+pydantic>=1.8.0
+streamlit>=1.22.0
+langchain>=0.0.0
+langchain-community>=0.0.0
+langchain-together>=0.0.0
+pypdf>=0.0.0
+sentence-transformers>=0.0.0
+faiss-cpu>=0.0.0
+nltk
