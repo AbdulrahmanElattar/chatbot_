@@ -91,5 +91,4 @@ This project is a chatbot application that processes PDF documents to provide co
 - **ngrok issues**: Check your `ngrok` authentication token and ensure the correct ports are exposed.
 - **Dependency errors**: Ensure all packages in `requirements.txt` are installed correctly.
 
-## License
-This project is licensed under the MIT License.
+
